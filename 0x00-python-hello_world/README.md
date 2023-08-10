@@ -9,3 +9,4 @@ The 6-concat.py script prints Welcome to Holberton School!.
 The 8-concat_edges.py script prints object-oriented programming with Python, followed by a new line.
 The 9-easter_egg.py script prints “The Zen of Python”, by TimPeters, followed by a new line.
 The 10-check_cycle.c function checks if a singly linked list has a cycle in it.
+The 100-write.py script prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.
