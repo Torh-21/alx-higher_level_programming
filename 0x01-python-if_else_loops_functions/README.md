@@ -11,3 +11,4 @@ The 8-uppercase.py program  prints a string in uppercase followed by a new line.
 The 9-print_last_digit.py prints the last digit of a number.
 The 10-add.py function adds two integers and returns the result.
 The 11-pow.py function  computes a to the power of b and return the value.
+The 12-fizzbuzz.py function prints the numbers from 1 to 100 separated by a space. 
