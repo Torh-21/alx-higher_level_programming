@@ -5,3 +5,4 @@ The 2-print_alphabet.py program prints the ASCII alphabet, in lowercase, not fol
 The 3-print_alphabt.py  prints the ASCII alphabet, in lowercase, not followed by a new line.
 The 4-print_hexa.py program prints all numbers from 0 to 98 in decimal and in hexadecimal.
 The 5-print_comb2.py prints numbers from 0 to 99.
+The 6-print_comb3.py prints all possible different combinations of two digits.
