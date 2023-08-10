@@ -7,3 +7,4 @@ The 4-print_hexa.py program prints all numbers from 0 to 98 in decimal and in he
 The 5-print_comb2.py prints numbers from 0 to 99.
 The 6-print_comb3.py prints all possible different combinations of two digits.
 The 7-islower.py program checks for lowercase character. 
+The 8-uppercase.py program  prints a string in uppercase followed by a new line.
