@@ -8,3 +8,4 @@ The 5-print_string.py script prints 3 times a string stored in the variable str,
 The 6-concat.py script prints Welcome to Holberton School!.
 The 8-concat_edges.py script prints object-oriented programming with Python, followed by a new line.
 The 9-easter_egg.py script prints “The Zen of Python”, by TimPeters, followed by a new line.
+The 10-check_cycle.c function checks if a singly linked list has a cycle in it.
