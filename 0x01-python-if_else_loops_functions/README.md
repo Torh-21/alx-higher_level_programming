@@ -8,3 +8,5 @@ The 5-print_comb2.py prints numbers from 0 to 99.
 The 6-print_comb3.py prints all possible different combinations of two digits.
 The 7-islower.py program checks for lowercase character. 
 The 8-uppercase.py program  prints a string in uppercase followed by a new line.
+The 9-print_last_digit.py prints the last digit of a number.
+
