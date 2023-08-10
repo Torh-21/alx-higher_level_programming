@@ -7,3 +7,4 @@ The 4-print_float.py prints the float stored in the variable number with a preci
 The 5-print_string.py script prints 3 times a string stored in the variable str, followed by its first 9 characters.
 The 6-concat.py script prints Welcome to Holberton School!.
 The 8-concat_edges.py script prints object-oriented programming with Python, followed by a new line.
+The 9-easter_egg.py script prints “The Zen of Python”, by TimPeters, followed by a new line.
