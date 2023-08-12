@@ -7,3 +7,4 @@ The 4-hidden_discovery.py program prints all the names defined by the compiled m
 The 5-variable_load.py program imports the variable a from the file variable_load_5.py and prints its value.
 The 100-my_calculator.py program imports all functions from the file calculator_1.py and handles basic operations.
 The 101-easy_print.py program prints #pythoniscool, followed by a new line, in the standard output.
+The 103-fast_alphabet.py program prints the alphabet in uppercase, followed by a new line.
