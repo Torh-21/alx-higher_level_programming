@@ -6,4 +6,5 @@ The 3-common_elements.py function returns a set of common elements in two sets.
 The 4-only_diff_elements.py function returns a set of all elements present in only one set.
 The 5-number_keys.py function returns the number of keys in a dictionary.
 The 6-print_sorted_dictionary.py function prints a dictionary by ordered keys. 
+The 7-update_dictionary.py function replaces or adds key/value in a dictionary.
 The 
