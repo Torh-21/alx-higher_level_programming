@@ -8,3 +8,4 @@ The 5-no_c.py function removes all characters c and C from a string.
 The 6-print_matrix_integer.py function prints a matrix of integers.
 The 8-multiple_returns.py function returns a tuple with the length of a string and its first character. 
 The 9-max_integer.py function finds the biggest integer of a list. 
+The 10-divisible_by_2.py function  finds all multiples of 2 in a list.
