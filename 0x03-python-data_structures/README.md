@@ -7,3 +7,4 @@ The 4-new_in_list.py function replaces an element in a list at a specific positi
 The 5-no_c.py function removes all characters c and C from a string.
 The 6-print_matrix_integer.py function prints a matrix of integers.
 The 8-multiple_returns.py function returns a tuple with the length of a string and its first character. 
+The 9-max_integer.py function finds the biggest integer of a list. 
