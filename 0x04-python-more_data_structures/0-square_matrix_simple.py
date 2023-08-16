@@ -8,5 +8,5 @@ def square_matrix_simple(matrix=[]):
     for i in range(row_len):
         for j in range(col_len):
             sqrd_matrix[i][j] = matrix[i][j] ** 2
-            
+
     return sqrd_matrix
