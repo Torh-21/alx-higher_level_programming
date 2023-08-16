@@ -9,4 +9,5 @@ The 6-print_sorted_dictionary.py function prints a dictionary by ordered keys.
 The 7-update_dictionary.py function replaces or adds key/value in a dictionary.
 The 8-simple_delete.py function deletes a key in a dictionary.
 The 9-multiply_by_2.py function returns a new dictionary with all values multiplied by 2.
-The 
+The 10-best_score.py function returns a key with the biggest integer value.
+The  
