@@ -10,4 +10,4 @@ The 8-multiple_returns.py function returns a tuple with the length of a string a
 The 9-max_integer.py function finds the biggest integer of a list. 
 The 10-divisible_by_2.py function  finds all multiples of 2 in a list.
 The 11-delete_at.py function deletes the item at a specific position in a list.
-
+The 12-switch.py function switches the value of a and b.
