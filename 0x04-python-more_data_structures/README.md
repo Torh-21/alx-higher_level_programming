@@ -4,3 +4,5 @@ The 1-search_replace.py function replaces all occurrences of an element by anoth
 The 2-uniq_add.py function adds all unique integers in a list (only once for each integer). 
 The 3-common_elements.py function returns a set of common elements in two sets.
 The 4-only_diff_elements.py function returns a set of all elements present in only one set.
+The 5-number_keys.py function returns the number of keys in a dictionary.
+The 
