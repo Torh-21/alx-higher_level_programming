@@ -7,6 +7,7 @@
     This module defines the prototype def append_write(filename="", text=""):
 """
 
+
 def append_write(filename="", text=""):
     """
         This function appends a string to the end of a text file
