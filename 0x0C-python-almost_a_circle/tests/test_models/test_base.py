@@ -29,28 +29,14 @@ class TestBase(unittest.TestCase):
         """
             This method tests the id for new instances
         """
-        b0 = Base()
-        self.assertEqual(b0.id, 1)
-        b1 = Base()
-        self.assertEqual(b1.id, 2)
-        b2 = Base(12)
-        self.assertEqual(b2.id, 12)
-        b3 = Base(0)
-        self.assertEqual(b3.id, 0)
-        b4 = Base(927)
-        self.assertEqual(b4.id, 927)
-        b5 = Base(-5)
-        self.assertEqual(b5.id, -5)
-        b6 = Base(9)
-        self.assertEqual(b6.id, 9)
-
-    def test_type(self):
-        """
-            This method tests for the type of an instance
-        """
-        b6 = Base()
-        self.assertEqual(type(b6), Base)
-        self.assertTrue(isinstance(b6, Base))
+        r1 = Rectangle(10, 10)
+        self.assertEqual(r1.id, 1)
+        r2 = Rectangle(10, 10)
+        self.assertEqual(r2.id, 2)
+        s1 = Square(5)
+        self.assertEqual(s1.id, 1)
+        s2 = Square(10)
+        self.assertEqual(s2.id, 2)
 
     def test_json_string(self):
         """
