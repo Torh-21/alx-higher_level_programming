@@ -14,7 +14,7 @@ class Rectangle(Base):
         This defines the Rectangle class
         which inherits from the Base class
     """
-    
+
     def __init__(self, width, height, x=0, y=0, id=None):
         """
             This method initializes a new Rectangle
